@@ -2,9 +2,9 @@
 All related to the practice of covid-19 web app
 
 Installing
-After cloning the project enter into covid-19-react-web-app folder:
+Download the project and enter into covid-19-react-web-app folder and run:
 $ npm install
 
-Run
+Start
 After installing all the dependencies run: 
 $npm start
